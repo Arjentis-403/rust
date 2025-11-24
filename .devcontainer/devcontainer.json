@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {"ghcr.io/devcontainers-extra/features/amplify-cli:2": {}}}}}
+}
